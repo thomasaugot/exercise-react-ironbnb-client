@@ -1,3 +1,16 @@
 .App {
   text-align: center;
 }
+
+.navBar {
+  padding: 2rem 2rem;
+  margin: 2rem ;
+  border: solid black 2px;
+  border-radius: 10px;
+  background-color: rgb(110, 174, 216);
+}
+
+.navLink{
+  padding: 1rem 3rem;
+  color: black;
+}
